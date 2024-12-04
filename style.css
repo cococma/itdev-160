@@ -1,0 +1,13 @@
+/* CSS Hello World Project A2*/
+header {
+    background-color: cyan;
+    height: 100px;
+    padding: 3em;
+}
+body {
+    background-color: cyan;
+    padding: 1em;
+}
+header h3 h2 {
+    text-align: center;
+}
